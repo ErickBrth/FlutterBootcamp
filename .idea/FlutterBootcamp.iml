@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/desafio_imc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/desafio_imc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/desafio_imc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_tests/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app_tests/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_tests/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/trilha_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/trilha_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/trilha_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/meu_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/meu_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/meu_app/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
